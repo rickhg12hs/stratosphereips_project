@@ -4,7 +4,7 @@ Our group conducts research at the intersection of machine learning, cybersecuri
 
 ## About
 
-Stratosphere was founded in 2013 by Sebastian Garcia. Since then, our group has been home to dozen of researchers around the world commited to making the world a better place. 
+Stratosphere was founded in 2013 by Sebastian Garcia. Since then, our group has been home to dozens of researchers from around the world who are committed to making the world a better place. 
 
 ## Our Datasets
 
@@ -27,7 +27,7 @@ Here are some of our projects that we love most:
 
 ## Our Teaching
 
-Since 2017, we teach the Introduction to Security class at the Czceh Technical University in Prague. In 2024, this course was open to anyone in the world as a massive open online course (MOOC). Read more in our class website: https://cybersecurity.bsy.fel.cvut.cz
+Since 2017, we have taught the _Introduction to Security_ class at the Czech Technical University in Prague. In 2024, this course was open to anyone in the world as a massive open online course (MOOC). Read more at our class website: https://cybersecurity.bsy.fel.cvut.cz
 
 ## Join our community
 
